@@ -10,12 +10,12 @@ Our mission is to inform, support, and inspire readers to become unbeatable in b
 
 Say hello @ [boxingundefeated.com](https://boxingundefeated.com)
 
-<br><br><br>
+<br>
 
-![Boxing Logo](https://github.com/boxingundefeated/.github/assets/45643901/1906bf71-8695-4bcf-94fb-4fc26ce6086c)
+<img src="https://github.com/boxingundefeated/.github/assets/45643901/1906bf71-8695-4bcf-94fb-4fc26ce6086c" height="300px"/>
 
 
-<br><br><br>
+<br>
 
 
 ## Socials
