@@ -1,4 +1,6 @@
-# Boxing Undefeated
+
+![boxing undefeated banner](https://github.com/boxingundefeated/.github/assets/45643901/8e3b82f0-402e-4bbb-9afd-955fdc567417)
+
 
 Boxing Undefeated is a website and fitness organization dedicated to all things boxing. We help people learn and train in boxing to get fit, gain confidence, improve their athleticism, or even go professional. 
 <br><br>
@@ -34,5 +36,3 @@ Say hello @ [boxingundefeated.com](https://boxingundefeated.com)
 
 <br><br><br>
 
-
-![boxing undefeated banner](https://github.com/boxingundefeated/.github/assets/45643901/8e3b82f0-402e-4bbb-9afd-955fdc567417)
