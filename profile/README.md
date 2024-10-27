@@ -30,9 +30,11 @@ Say hello @ [boxingundefeated.com](https://boxingundefeated.com)
 
 ## Community
 
-- [Discord](https://serp.ly/@boxing/discord)
+- [Forum](https://github.com/boxingundefeated/forum)
 - [Free Stuff](https://serp.ly/@boxing/stuff)
+
+## Shop
+- [shop.boxingundefeated.com](https://shop.boxingundefeated.com)
 - [Amazon Store](https://serp.ly/@boxing/amazon)
 
-<br><br><br>
 
