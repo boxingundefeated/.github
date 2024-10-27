@@ -21,19 +21,19 @@ Say hello @ [boxingundefeated.com](https://boxingundefeated.com)
 
 
 ## Socials
-
 - [YouTube](https://serp.ly/@boxing/youtube)
 - [Instagram](https://serp.ly/@boxing/instagram)
 - [Twitter](https://serp.ly/@boxing/twitter)
 - [Facebook](https://serp.ly/@boxing/facebook)
 - [Google Blog](https://sites.google.com/view/boxingundefeated)
 
-## Community
 
+## Community
 - [Forum](https://github.com/boxingundefeated/forum)
-- [Free Stuff](https://serp.ly/@boxing/stuff)
+
 
 ## Shop
+- [Free Stuff](https://serp.ly/@boxing/stuff)
 - [shop.boxingundefeated.com](https://shop.boxingundefeated.com)
 - [Amazon Store](https://serp.ly/@boxing/amazon)
 
