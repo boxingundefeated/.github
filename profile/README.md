@@ -14,11 +14,6 @@ Say hello @ [boxingundefeated.com](https://boxingundefeated.com)
 
 <br>
 
-<img src="https://github.com/boxingundefeated/.github/assets/45643901/1906bf71-8695-4bcf-94fb-4fc26ce6086c" height="300px"/>
-
-
-<br>
-
 
 ## Socials
 - [YouTube](https://serp.ly/@boxing/youtube)
