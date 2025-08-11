@@ -78,25 +78,23 @@ In addition to helping individuals, we also strive to support the boxing communi
 
 ### Alexander "The Great" Enriquez
 
+<img width="250" height="250" src="https://github.com/user-attachments/assets/e3c77012-2501-44f7-9458-c470a8cb9f0b" />
+
 - Founder & Professional Boxer
 - Undefeated - Record: 11-0-1
 - [@boxingwithalex](https://www.instagram.com/boxingwithalex)
 
-
-<img width="250" height="250" src="https://github.com/user-attachments/assets/e3c77012-2501-44f7-9458-c470a8cb9f0b" />
-
-
 Alexander "The Great" Enriquez is a Mexican-American former professional boxer who won so-cal state champion & ADIDAS national PAL as an amateur. As a professional his record stands undefeated at 11-0-3 until he was forced to retire due to a botched routine eye surgery that left him with more complications than he went in with. He now dedicates his life to helping others learn 
 
 ### Devin Schumacher
+
+<img width="250" height="250" alt="devin-head-200px" src="https://github.com/user-attachments/assets/a3681098-a94c-4e1e-aa2a-a78dcbbe48b3" />
 
 Entrepreneur, Founder of SERP & widely regarded as the world's best SEO & grumpy cat impersonator. & widely regarded as the world's best SEO & grumpy cat impersonator.
 
 - Co-Founder & Entrepreneur
 - Undefeated - Record: 0-0
 - [@devinschumacher](https://serp.ly/@devin/youtube)
-
-<img width="250" height="250" alt="devin-head-200px" src="https://github.com/user-attachments/assets/a3681098-a94c-4e1e-aa2a-a78dcbbe48b3" />
 
 
 ## Connect with us
