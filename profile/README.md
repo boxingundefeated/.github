@@ -67,7 +67,7 @@ Whether you continue is up to you - and this applies to all parts of life, not j
 We believe that the best lessons and the biggest gains are made in defeat and failure, and that we shouldn't avoid it, but run towards it with excitement and curiosity.
 
 
-### Leadership
+### People
 
 Led by undefeated professional boxer Alexander "The Great" Enriquez (11-0-1) & internationally acclaimed entrepreneur Devin Schumacher (also undefeated at 0-0), our team of trainers and coaches provide courses, training, tutorials, videos, and product reviews with the goal of giving the best information and support for reaching fitness goals.
 
@@ -76,21 +76,27 @@ Our mission is to inform, support, and inspire readers to become unbeatable in b
 In addition to helping individuals, we also strive to support the boxing community by promoting and showcasing the talents of up-and-coming boxers and creating additional income streams for them to pursue their dreams.
 
 
-#### Alexander "The Great" Enriquez
+### Alexander "The Great" Enriquez
 
 - Founder & Professional Boxer
 - Undefeated - Record: 11-0-1
 - [@boxingwithalex](https://www.instagram.com/boxingwithalex)
 
+
+<img width="250" height="250" src="https://github.com/user-attachments/assets/e3c77012-2501-44f7-9458-c470a8cb9f0b" />
+
+
 Alexander "The Great" Enriquez is a Mexican-American former professional boxer who won so-cal state champion & ADIDAS national PAL as an amateur. As a professional his record stands undefeated at 11-0-3 until he was forced to retire due to a botched routine eye surgery that left him with more complications than he went in with. He now dedicates his life to helping others learn 
 
-#### Devin Schumacher
+### Devin Schumacher
 
 Entrepreneur, Founder of SERP & widely regarded as the world's best SEO & grumpy cat impersonator. & widely regarded as the world's best SEO & grumpy cat impersonator.
 
 - Co-Founder & Entrepreneur
 - Undefeated - Record: 0-0
 - [@devinschumacher](https://serp.ly/@devin/youtube)
+
+<img width="250" height="250" alt="devin-head-200px" src="https://github.com/user-attachments/assets/a3681098-a94c-4e1e-aa2a-a78dcbbe48b3" />
 
 
 ## Connect with us
