@@ -14,7 +14,7 @@ Say hello @ [boxingundefeated.com](https://boxingundefeated.com)
 
 <br>
 
-## Story
+## Why Boxing Undefeated
 
 People always say "you don't play boxing".
 
@@ -50,8 +50,6 @@ It's better for the sport of boxing.
 
 "EVERYBODY's 'O' has got to go!"
 
-### Why Boxing Undefeated
-
 Our name is Boxing Undefeated because our Founder Alexander "The Great" Enriquez retired from the sport of boxing due to an out-of-ring injury with an undefeated record (you can read his full story here).
 
 It doesn't mean that we only celebrate boxers with undefeated records, or think that being undefeated means anything of consequence - in fact, the complete opposite.
@@ -68,7 +66,6 @@ Whether you continue is up to you - and this applies to all parts of life, not j
 
 We believe that the best lessons and the biggest gains are made in defeat and failure, and that we shouldn't avoid it, but run towards it with excitement and curiosity.
 
-![Alexander 'The Great' Enriquez celebrating in the boxing ring](/_nuxt/alexander-the-great-enriquez-boxing-ring-2.DpywP4gl.JPG)
 
 ### Leadership
 
